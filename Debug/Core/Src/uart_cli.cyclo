@@ -1,0 +1,5 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Core/Src/uart_cli.c:16:6:uart2_interrupt_init	1
+../Core/Src/uart_cli.c:40:6:uart2_transmit_char	2
+../Core/Src/uart_cli.c:45:6:uart2_transmit_string	2
+../Core/Src/uart_cli.c:55:6:usart2_irqhandler	6
