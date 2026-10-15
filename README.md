@@ -1,4 +1,3 @@
-# Bare-Metal-UART
 
 # Bare-Metal Interrupt-Driven UART Command Line Interface (CLI)
 
