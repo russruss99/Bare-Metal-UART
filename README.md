@@ -12,7 +12,7 @@ A high-efficiency, event-driven serial command shell implemented from scratch on
 
 ---
 
-## 🏗️ System & Interrupt Architecture
+## System & Interrupt Architecture
 
 Rather than wasting 100% of the CPU's processing power in primitive "polling loops" constantly checking if data has arrived, this system operates on a zero-overhead, event-driven interrupt framework. The main processing loop remains completely idle until an asynchronous user event wakes the handler.
 
